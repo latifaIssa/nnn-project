@@ -4,6 +4,7 @@
 <img align="right" src="./website/img/logo.png" width="300" height="200"/>
 
 A news website that enables users navigating news related to different categories, sharing them on their social media and adding their own comments on them.
+and I am working on detailes page.
 
 ## Downloading Source Code
 
